@@ -5,11 +5,7 @@ I'm Inna - FrontEnd developer from South Korea.
 
 **About me**
 
-*
-*
-*
-*
-
+* Web Frontend developer located in Seoul.
 
 **Skills**
 
