@@ -15,16 +15,16 @@ I'm Inna - FrontEnd developer from South Korea.
 
 * Languages
   
-[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,java&theme=light)](https://skillicons.dev)
+  [![Languages](https://skillicons.dev/icons?i=html,css,js,ts,java&theme=light)](https://skillicons.dev)
 
 * Libraries & Frameworks
   
-[![Libraries&Frameworks](https://skillicons.dev/icons?i=vue,react,next,spring,tailwind&theme=light)](https://skillicons.dev)
+  [![Libraries&Frameworks](https://skillicons.dev/icons?i=vue,react,next,spring,tailwind&theme=light)](https://skillicons.dev)
 
 * DB & Deployment
 
-[![DB&Deployment](https://skillicons.dev/icons?i=mysql,postgres,docker&theme=light)](https://skillicons.dev)
+  [![DB&Deployment](https://skillicons.dev/icons?i=mysql,postgres,docker&theme=light)](https://skillicons.dev)
 
 * Tools & Platforms
 
-[![Tools&Platforms](https://skillicons.dev/icons?i=git,github,firebase,slack&theme=light)](https://skillicons.dev)
+  [![Tools&Platforms](https://skillicons.dev/icons?i=git,github,firebase,slack&theme=light)](https://skillicons.dev)
