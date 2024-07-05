@@ -28,3 +28,7 @@ I'm Inna - FrontEnd developer from South Korea.
 * Tools & Platforms
 
   [![Tools&Platforms](https://skillicons.dev/icons?i=git,github,firebase,slack&theme=light)](https://skillicons.dev)
+
+
+![](https://raw.githubusercontent.com/Inna18/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/Inna18/github-stats-transparent/output/generated/languages.svg)
